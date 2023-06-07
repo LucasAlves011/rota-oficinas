@@ -1,0 +1,20 @@
+/* nav, main, header, footer {
+   display: flex;
+   background-color: lightslategray;
+   flex-direction: column;
+} */
+
+header {
+   height: 100px;
+}
+
+nav {
+
+}
+
+main {
+   background-color: antiquewhite;
+   flex: 20 1 500px;
+   overflow: auto;
+}
+

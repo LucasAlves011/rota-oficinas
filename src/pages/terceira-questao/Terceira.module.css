@@ -1,0 +1,46 @@
+.container {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   height: 70vh;
+}
+
+.formulario {
+   display: flex;
+   flex-direction: column;
+   margin: 5%;
+   background-color: white;
+   padding: 2%;
+   border-radius: 5px;
+}
+
+.passos {
+   margin: 3vh auto;
+   width: 60%;
+   align-self: center;
+   background-color: white;
+   padding: 2vh;
+   border-radius: 5px;
+}
+
+h1 {
+   text-align: center;
+   margin-top: 0;
+   padding-top: 1vh;
+}
+
+h2 {
+   text-align: center;
+   margin-top: 0;
+}
+
+/* .t {
+   max-height: 250px;
+} */
+
+#fraseVazio {
+   font-size: 1.3em;
+   margin: 1em;
+   color: #919191;
+}
