@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 
 import Primeira from './pages/Primeira'
-import Segunda from './pages/Segunda'
+import Segunda from './pages/segunda/Segunda'
 import Terceira from './pages/terceira-questao/Terceira'
 import PaginaBase from './PaginaBase.jsx'
 
